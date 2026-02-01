@@ -1,6 +1,5 @@
 import Image from "next/image";
 import EarningTicker from "@/components/EarningTicker";
-import { Analytics } from "@vercel/analytics/next";
 
 export default function Home() {
   return (
